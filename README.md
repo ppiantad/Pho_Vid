@@ -20,6 +20,7 @@ The TDT SDK (see "Required Items" below) provides a template for filtering based
 
 ## Required Items
 [Anaconda Navigator NOTE:You must download python 3.7](https://www.anaconda.com/distribution/)
+
 [ABET II](http://lafayetteneuroscience.com/products/abetii-operant-ctrl-software)
 ### Helpful Hints
 [Instructions for use with Synapse Photometry System](www.tdt.com/support/python-sdk)
